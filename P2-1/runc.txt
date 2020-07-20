@@ -1,0 +1,8 @@
+cd '/Users/baiyatongapple/OneDrive - Georgia Institute of Technology/College Life/Spring 2018/ECE 2035/P2/P2-1'
+cd '/Users/baiyatongapple/OneDrive - Georgia Institute of Technology/College Life/Spring 2018/ECE 2035/P2/P2-1/Submit Files'
+
+gcc ht_tests_shell.cpp -g -Wall -o ht_tests
+
+make
+
+make clean

@@ -1,0 +1,3 @@
+cd '/Users/baiyatongapple/OneDrive - Georgia Institute of Technology/College Life/Spring 2018/ECE 2035/P2/HW3 & P2-2/Game'
+
+gcc main.cpp -g -Wall -o main
